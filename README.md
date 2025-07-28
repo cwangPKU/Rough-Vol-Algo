@@ -60,7 +60,7 @@ In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`) and Fourie
 ### Chenyu Wang
 1. **Fourier Transform Inversion Method**  
 2. **Rough Volatility Expansion Method**  
-3. **First-Passage-Time Problem**  
+3. **First-Passage-Time Experiments**  
 4. **IV Surface and Parameter Test Experiments**  
 
 ### Ruirong Feng
@@ -68,7 +68,7 @@ In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`) and Fourie
 2. **Numerical Schemes**:
    - Euler Scheme  
    - Classic Hybrid Scheme  
-   - Markov Approximation Algorithms  
+   - Markov Approximation
 3. **IV Curve & Surface Experiments**  
 4. **Convergence Analysis Experiments**  
 
