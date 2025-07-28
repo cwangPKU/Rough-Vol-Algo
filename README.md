@@ -24,10 +24,15 @@ In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`) and Fourie
 ## 📂 Repository Structure
 
 - `main.m` — Entry point for running simulations.
+- `run_test_params.m` — A script that runs simulations under different groups of parameters and tests the shape of IV surface.
 - `accelerated_hybrid.m`, `euler_scheme.m`, `standard_hybrid.m`, `markov_approx.m` — Core simulation algorithms.
 - `convergence_test.m`, `testConvergenceAcchyb.m`, `testConvergenceJ.m`, `testConvergenceN.m`, `testConvergenceNf.m` — Convergence and validation scripts.
 - `Fourier_Transform_Inversion/` — Fourier-based pricing and implied volatility calculation.
-- `assets/` — Precomputed results, figures, and tables.
+- `RV_Expansion/` — Rough-volatility-expansion method for option pricing and implied volatility calculation.
+- `Rough_Vol_FPT/` — Numeric experiments on first-passage-time problem based on rough-vol simulation algorithms
+- `Rough_Vol_FPT/run_FPT.m` — A script that runs FPT simulations.
+- `helpers/` — Costum-made MATLAB toolbox.
+- `assets/`, `IV_curve/`, `IV_rhoSurface/`, `IV_surface` — Precomputed results, figures, and tables.
 
 ## 📋 Requirements
 
@@ -46,8 +51,13 @@ In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`) and Fourie
 
 ## 📈 Results & Figures
 
-- Precomputed results and figures are available in the `assets/` folder.
+- Precomputed results and figures are available in the `assets/`, `IV_curve/`, `IV_rhoSurface/`, `IV_surface` folders.
 - Additional figures and tables for convergence and implied volatility are provided.
+
+
+## Authors & Contributions
+- Chenyu Wang
+- Ruirong Feng
 
 ## 📜 References
 
