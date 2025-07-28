@@ -64,7 +64,7 @@ In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`), Fourier t
 4. **IV Surface and Parameter Test Experiments**  
 
 ### Ruirong Feng
-1. **Accelerated Hybrid Scheme Method**  
+1. **Accelerated Hybrid Scheme**  
 2. **Numerical Schemes**:
    - Euler Scheme  
    - Classic Hybrid Scheme  
