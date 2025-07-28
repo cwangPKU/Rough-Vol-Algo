@@ -4,7 +4,7 @@ This repository implements simulation and pricing methods for rough volatility m
 
 - Developed a robust Fourier transform inversion approach using the Adams scheme solver for the fractional Riccati equation, providing a stable benchmark for option pricing under rough volatility.
 - Proposed the **Accelerated Hybrid Scheme**, which embeds a precomputation step into the classical hybrid scheme to achieve fast and accurate simulation.
-- Introduced a Rough Volatility Expansion technique that extends beyond affine Volterra models, enabling accurate and stable implied volatility surfaces for general two-factor rough dynamics.
+- Introduced a **Rough Volatility Expansion** technique that extends beyond affine Volterra models, enabling accurate and stable implied volatility surfaces for general two-factor rough dynamics.
 
 
 ## 📖 Overview
