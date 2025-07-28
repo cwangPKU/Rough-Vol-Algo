@@ -15,7 +15,7 @@ This repository implements simulation and pricing methods for rough volatility m
 
 ## 🧮 Implemented Methods
 
-In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`) and Fourier transform inversion (`Fourier_Transform_Inversion/`), the following Monte Carlo schemes are available for comparison:
+In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`), Fourier transform inversion (`Fourier_Transform_Inversion/`), and Rough Volatility Expansion technique (`RV_Expansion/`), the following Monte Carlo schemes are available for comparison:
 
 - **Euler–Maruyama discretization** (`euler_scheme.m`)
 - **Classical Hybrid Scheme** (`standard_hybrid.m`)
