@@ -56,8 +56,21 @@ In addition to the Accelerated Hybrid Scheme (`accelerated_hybrid.m`) and Fourie
 
 
 ## Authors & Contributions
-- Chenyu Wang
-- Ruirong Feng
+
+### Chenyu Wang
+1. **Fourier Transform Inversion Method**  
+2. **Rough Volatility Expansion Method**  
+3. **First-Passage-Time Problem**  
+4. **IV Surface and Parameter Test Experiments**  
+
+### Ruirong Feng
+1. **Accelerated Hybrid Scheme Method**  
+2. **Numerical Schemes**:
+   - Euler Scheme  
+   - Classic Hybrid Scheme  
+   - Markov Approximation Algorithms  
+3. **IV Curve & Surface Experiments**  
+4. **Convergence Analysis Experiments**  
 
 ## 📜 References
 
